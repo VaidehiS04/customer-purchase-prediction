@@ -14,3 +14,4 @@ __pycache__/
 # OS-specific junk files
 .DS_Store
 Thumbs.db
+report/
